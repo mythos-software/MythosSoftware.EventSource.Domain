@@ -8,4 +8,10 @@
         <Title>MythosSoftware.EventSource.Domain</Title>
     </PropertyGroup>
 
+    <PropertyGroup>
+        <PackageId>MythosSoftware.EventSource.Domain</PackageId>
+        <RepositoryType>git</RepositoryType>
+        <RepositoryUrl>https://github.com/mythos-software/MythosSoftware.EventSource.Domain</RepositoryUrl>
+    </PropertyGroup>
+
 </Project>
